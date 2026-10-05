@@ -37,7 +37,7 @@ Click the Generate QR Code button.
 
 Your QR code will appear on the screen.
 
-Download or scan the generated QR code.
+Scan the generated QR code.
 
 
 ## Preview
