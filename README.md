@@ -26,7 +26,7 @@ CSS3 – Styling and responsive design
 
 JavaScript – QR code generation and functionality
 
-QR Code API/Library – Used to generate QR codes
+QR Code API – Used to generate QR codes
 
 ## How to Use
 Open the QR Code Generator.
